@@ -8,8 +8,7 @@ import pylab
 import scipy
 from PIL import Image
 from scipy import ndimage
-from dnn_utils_v2 import *
-
+from dnn_app_utils_v3 import *
 
 # %matplotlib inline
 
